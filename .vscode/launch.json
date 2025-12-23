@@ -8,21 +8,10 @@
             "type": "node",
             "request": "launch",
             "name": "Seed Firestore",
-            "program": "${workspaceFolder}/scripts/seed-firestore/index.js",
+            "runtimeArgs": ["run", "seed:firestore"],
+            "runtimeExecutable": "npm",
             "cwd": "${workspaceFolder}",
             "console": "integratedTerminal"
         },
-        // {
-        //     "type": "node",
-        //     "request": "launch",
-        //     "name": "Launch Program",
-        //     "skipFiles": [
-        //         "<node_internals>/**"
-        //     ],
-        //     "program": "${workspaceFolder}/scripts/seed-firestore/index.js",
-        //     "outFiles": [
-        //         "${workspaceFolder}/**/*.js"
-        //     ]
-        // }
     ]
 }
