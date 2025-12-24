@@ -1,0 +1,13 @@
+{
+  "appId": "YOUR_APP_ID",
+  "demoApps": {
+    "collections": {
+      "APP_ID_GUID": {
+        "appId": "APP_ID_GUID",
+        "appName": "your-app-name",
+        "season": "",
+        "collections": {}
+      }
+    }
+  }
+}

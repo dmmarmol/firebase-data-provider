@@ -61,4 +61,4 @@ firebase-debug.log
 
 database/
 .legacy
-scripts/**/*.json
+scripts/seed-firestore/*.json
