@@ -8,7 +8,7 @@
         "season": "Olympics 2004 & 2008",
         "collections": {
           "players": {
-            "manu-ginobili": {
+            "5fcd3689-789a-4824-8d2e-678901678902": {
               "id": 1,
               "name": "Manu Ginobili",
               "position": "SG",
@@ -22,7 +22,7 @@
               "fouls": 0,
               "minutesPlayed": 240
             },
-            "luis-scola": {
+            "60de479a-89ab-4924-8e3f-789012789013": {
               "id": 2,
               "name": "Luis Scola",
               "position": "PF",
@@ -36,7 +36,7 @@
               "fouls": 0,
               "minutesPlayed": 220
             },
-            "andres-nocioni": {
+            "71ef58ab-9abc-4a24-8f40-890123890124": {
               "id": 3,
               "name": "Andres Nocioni",
               "position": "SF",
@@ -50,7 +50,7 @@
               "fouls": 0,
               "minutesPlayed": 210
             },
-            "fabricio-oberto": {
+            "82f069bc-abcd-4b24-8051-901234901235": {
               "id": 4,
               "name": "Fabricio Oberto",
               "position": "C",
@@ -64,7 +64,7 @@
               "fouls": 0,
               "minutesPlayed": 200
             },
-            "carlos-delfino": {
+            "93f17acd-bcde-4c24-8162-a01235a01236": {
               "id": 5,
               "name": "Carlos Delfino",
               "position": "SG",
@@ -78,7 +78,7 @@
               "fouls": 0,
               "minutesPlayed": 180
             },
-            "pablo-prigioni": {
+            "a4028bde-cdef-4d24-8273-b12346b12347": {
               "id": 6,
               "name": "Pablo Prigioni",
               "position": "PG",
@@ -92,7 +92,7 @@
               "fouls": 0,
               "minutesPlayed": 190
             },
-            "allen-iverson": {
+            "b5139cef-def0-4e24-8384-c23457c23458": {
               "id": 7,
               "name": "Allen Iverson",
               "position": "PG",
@@ -106,7 +106,7 @@
               "fouls": 0,
               "minutesPlayed": 220
             },
-            "tim-duncan": {
+            "c624adf0-ef01-4f24-8495-d34568d34569": {
               "id": 8,
               "name": "Tim Duncan",
               "position": "PF",
@@ -120,7 +120,7 @@
               "fouls": 0,
               "minutesPlayed": 210
             },
-            "lebron-james": {
+            "d735be01-f012-4025-85a6-e45679e4567a": {
               "id": 9,
               "name": "LeBron James",
               "position": "SF",
@@ -134,7 +134,7 @@
               "fouls": 0,
               "minutesPlayed": 180
             },
-            "dwyane-wade": {
+            "e846cf12-0123-4125-86b7-f5678af5678b": {
               "id": 10,
               "name": "Dwyane Wade",
               "position": "SG",
@@ -148,7 +148,7 @@
               "fouls": 0,
               "minutesPlayed": 175
             },
-            "carmelo-anthony": {
+            "f957d023-1234-4225-87c8-06879b06879c": {
               "id": 11,
               "name": "Carmelo Anthony",
               "position": "SF",
@@ -162,7 +162,7 @@
               "fouls": 0,
               "minutesPlayed": 170
             },
-            "kobe-bryant": {
+            "0a68e134-2345-4325-88d9-1788ac1788ad": {
               "id": 12,
               "name": "Kobe Bryant",
               "position": "SG",
@@ -176,7 +176,7 @@
               "fouls": 0,
               "minutesPlayed": 200
             },
-            "chris-paul": {
+            "1b79f245-3456-4425-89ea-2899bd2899be": {
               "id": 13,
               "name": "Chris Paul",
               "position": "PG",
@@ -190,7 +190,7 @@
               "fouls": 0,
               "minutesPlayed": 190
             },
-            "dwight-howard": {
+            "2c8a0356-4567-4525-8afb-39aace39aacf": {
               "id": 14,
               "name": "Dwight Howard",
               "position": "C",
@@ -204,7 +204,7 @@
               "fouls": 0,
               "minutesPlayed": 180
             },
-            "pau-gasol": {
+            "3d9b1467-5678-4625-8b0c-4abbd04abbd1": {
               "id": 15,
               "name": "Pau Gasol",
               "position": "PF/C",
@@ -218,7 +218,7 @@
               "fouls": 0,
               "minutesPlayed": 200
             },
-            "marc-gasol": {
+            "4eac2578-6789-4725-8c1d-5bcc015bcc02": {
               "id": 16,
               "name": "Marc Gasol",
               "position": "C",
@@ -232,7 +232,7 @@
               "fouls": 0,
               "minutesPlayed": 180
             },
-            "jose-calderon": {
+            "5fbd3689-789a-4825-8d2e-6cdd126cdd13": {
               "id": 17,
               "name": "Jose Calderon",
               "position": "PG",
@@ -246,7 +246,7 @@
               "fouls": 0,
               "minutesPlayed": 190
             },
-            "juan-carlos-navarro": {
+            "60ce479a-89ab-4925-8e3f-7dee237dee24": {
               "id": 18,
               "name": "Juan Carlos Navarro",
               "position": "SG",
@@ -260,7 +260,7 @@
               "fouls": 0,
               "minutesPlayed": 185
             },
-            "rudy-fernandez": {
+            "71df58ab-9abc-4a25-8f40-8eff348eff35": {
               "id": 19,
               "name": "Rudy Fernandez",
               "position": "SG",
@@ -274,7 +274,7 @@
               "fouls": 0,
               "minutesPlayed": 175
             },
-            "sergio-rodriguez": {
+            "82e069bc-abcd-4b25-8051-9f00459f0046": {
               "id": 20,
               "name": "Sergio Rodriguez",
               "position": "PG",

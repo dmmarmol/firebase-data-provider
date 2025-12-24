@@ -8,7 +8,7 @@
         "season": "2015-2016",
         "collections": {
           "players": {
-            "lionel-messi": {
+            "7a3f12c4-94f7-4c7e-9b61-2c8a9b50a1e5": {
               "id": 1,
               "name": "Lionel Messi",
               "position": "RW / CF",
@@ -22,7 +22,7 @@
               "yellowCards": 3,
               "minutesPlayed": 2911
             },
-            "andres-iniesta": {
+            "a0b1c2d3-e4f5-46a7-8b9c-0d1e2f3a4b5c": {
               "id": 2,
               "name": "Andres Iniesta",
               "position": "CM",
@@ -36,7 +36,7 @@
               "yellowCards": 6,
               "minutesPlayed": 2240
             },
-            "gerard-pique": {
+            "c1d2e3f4-5678-49ab-8cde-0123456789ab": {
               "id": 3,
               "name": "Gerard Pique",
               "position": "CB",
@@ -50,7 +50,7 @@
               "yellowCards": 8,
               "minutesPlayed": 2550
             },
-            "neymar-jr": {
+            "d4e5f6a7-b8c9-4d0e-8f1a-2b3c4d5e6f70": {
               "id": 4,
               "name": "Neymar Jr",
               "position": "LW",
@@ -64,7 +64,7 @@
               "yellowCards": 5,
               "minutesPlayed": 2800
             },
-            "luis-suarez": {
+            "e7f8a9b0-c1d2-43e4-8f5a-6b7c8d9e0f12": {
               "id": 5,
               "name": "Luis Suarez",
               "position": "CF",
@@ -78,7 +78,7 @@
               "yellowCards": 7,
               "minutesPlayed": 3000
             },
-            "ivan-rakitic": {
+            "f0a1b2c3-d4e5-46f7-8a9b-0c1d2e3f4a56": {
               "id": 6,
               "name": "Ivan Rakitic",
               "position": "CM",
@@ -92,7 +92,7 @@
               "yellowCards": 4,
               "minutesPlayed": 2700
             },
-            "sergio-busquets": {
+            "a123b456-c789-4d01-8e23-4567a89b0cde": {
               "id": 7,
               "name": "Sergio Busquets",
               "position": "DM",
@@ -106,7 +106,7 @@
               "yellowCards": 9,
               "minutesPlayed": 3100
             },
-            "dani-alves": {
+            "b234c567-d890-4e12-8f34-6789ab0c1d2e": {
               "id": 8,
               "name": "Dani Alves",
               "position": "RB",
@@ -120,7 +120,7 @@
               "yellowCards": 6,
               "minutesPlayed": 2650
             },
-            "jordi-alba": {
+            "c345d678-e901-4f23-8a45-7890bc1d2e3f": {
               "id": 9,
               "name": "Jordi Alba",
               "position": "LB",
@@ -134,7 +134,7 @@
               "yellowCards": 8,
               "minutesPlayed": 2500
             },
-            "javier-mascherano": {
+            "d456e789-f012-4023-8b56-8901cd2e3f4a": {
               "id": 10,
               "name": "Javier Mascherano",
               "position": "CB / DM",
@@ -148,7 +148,7 @@
               "yellowCards": 7,
               "minutesPlayed": 2950
             },
-            "marc-andre-ter-stegen": {
+            "e567f890-0123-4123-8c67-9012de3f4a5b": {
               "id": 11,
               "name": "Marc-Andre ter Stegen",
               "position": "GK",
@@ -162,7 +162,7 @@
               "yellowCards": 1,
               "minutesPlayed": 2160
             },
-            "claudio-bravo": {
+            "f6780123-1234-4223-8d78-0123ef4a5b6c": {
               "id": 12,
               "name": "Claudio Bravo",
               "position": "GK",
@@ -176,7 +176,7 @@
               "yellowCards": 2,
               "minutesPlayed": 2340
             },
-            "thomas-vermaelen": {
+            "06780123-2345-4323-8e89-1234fa5b6c7d": {
               "id": 13,
               "name": "Thomas Vermaelen",
               "position": "CB",
@@ -190,7 +190,7 @@
               "yellowCards": 5,
               "minutesPlayed": 1500
             },
-            "jeremy-mathieu": {
+            "17890234-3456-4423-8f9a-2345ab6c7d8e": {
               "id": 14,
               "name": "Jeremy Mathieu",
               "position": "CB / LB",
@@ -204,7 +204,7 @@
               "yellowCards": 6,
               "minutesPlayed": 1600
             },
-            "rafinha": {
+            "289a0345-4567-4523-8a0b-3456bc7d8e9f": {
               "id": 15,
               "name": "Rafinha",
               "position": "CM",
@@ -218,7 +218,7 @@
               "yellowCards": 2,
               "minutesPlayed": 1200
             },
-            "sergi-roberto": {
+            "39ab1456-5678-4623-8b1c-4567cd8e9f01": {
               "id": 16,
               "name": "Sergi Roberto",
               "position": "CM / RB",
@@ -232,7 +232,7 @@
               "yellowCards": 4,
               "minutesPlayed": 1900
             },
-            "adriano": {
+            "4abc2567-6789-4723-8c2d-5678de9f0123": {
               "id": 17,
               "name": "Adriano",
               "position": "LB / RB",
@@ -246,7 +246,7 @@
               "yellowCards": 3,
               "minutesPlayed": 1400
             },
-            "munir-el-haddadi": {
+            "5bcd3678-789a-4823-8d3e-6789ef012345": {
               "id": 18,
               "name": "Munir El Haddadi",
               "position": "FW",
@@ -260,7 +260,7 @@
               "yellowCards": 2,
               "minutesPlayed": 1100
             },
-            "sandor-ramirez": {
+            "6cde4789-89ab-4923-8e4f-789a0f123456": {
               "id": 19,
               "name": "Sandro Ramirez",
               "position": "FW",
@@ -274,7 +274,7 @@
               "yellowCards": 1,
               "minutesPlayed": 1000
             },
-            "aleix-vidal": {
+            "7def589a-9abc-4a23-8f50-89ab10234567": {
               "id": 20,
               "name": "Aleix Vidal",
               "position": "RB / RW",
@@ -288,7 +288,7 @@
               "yellowCards": 2,
               "minutesPlayed": 900
             },
-            "cristiano-ronaldo": {
+            "8e0f69ab-abcd-4b23-8051-9abc21345678": {
               "id": 21,
               "name": "Cristiano Ronaldo",
               "position": "LW / CF",
@@ -302,7 +302,7 @@
               "yellowCards": 3,
               "minutesPlayed": 3000
             },
-            "karim-benzema": {
+            "9f107abc-bcde-4c23-8162-abcd32456789": {
               "id": 22,
               "name": "Karim Benzema",
               "position": "CF",
@@ -316,7 +316,7 @@
               "yellowCards": 2,
               "minutesPlayed": 2100
             },
-            "gareth-bale": {
+            "a0128bcd-cdef-4d23-8273-bcde43567890": {
               "id": 23,
               "name": "Gareth Bale",
               "position": "RW / LW",
@@ -330,7 +330,7 @@
               "yellowCards": 3,
               "minutesPlayed": 1900
             },
-            "luka-modric": {
+            "b1239cde-def0-4e23-8384-cdef54678901": {
               "id": 24,
               "name": "Luka Modric",
               "position": "CM",
@@ -344,7 +344,7 @@
               "yellowCards": 5,
               "minutesPlayed": 2600
             },
-            "toni-kroos": {
+            "c234adf0-ef01-4f23-8495-def065789012": {
               "id": 25,
               "name": "Toni Kroos",
               "position": "CM",
@@ -358,7 +358,7 @@
               "yellowCards": 4,
               "minutesPlayed": 2800
             },
-            "sergio-ramos": {
+            "d345be01-f012-4024-85a6-ef0178901234": {
               "id": 26,
               "name": "Sergio Ramos",
               "position": "CB",
@@ -372,7 +372,7 @@
               "yellowCards": 12,
               "minutesPlayed": 2400
             },
-            "marcelo": {
+            "e456cf12-0123-4124-86b7-f01290123456": {
               "id": 27,
               "name": "Marcelo",
               "position": "LB",
@@ -386,7 +386,7 @@
               "yellowCards": 6,
               "minutesPlayed": 2600
             },
-            "daniel-carvajal": {
+            "f567d023-1234-4224-87c8-0123a0123456": {
               "id": 28,
               "name": "Daniel Carvajal",
               "position": "RB",
@@ -400,7 +400,7 @@
               "yellowCards": 5,
               "minutesPlayed": 2100
             },
-            "keylor-navas": {
+            "0a78e134-2345-4324-88d9-1234b1234567": {
               "id": 29,
               "name": "Keylor Navas",
               "position": "GK",
@@ -414,7 +414,7 @@
               "yellowCards": 2,
               "minutesPlayed": 3060
             },
-            "antoine-griezmann": {
+            "1b89f245-3456-4424-89ea-2345c2345678": {
               "id": 30,
               "name": "Antoine Griezmann",
               "position": "FW",
@@ -428,7 +428,7 @@
               "yellowCards": 4,
               "minutesPlayed": 3200
             },
-            "diego-godin": {
+            "2c9a0356-4567-4524-8afb-3456d3456789": {
               "id": 31,
               "name": "Diego Godin",
               "position": "CB",
@@ -442,7 +442,7 @@
               "yellowCards": 11,
               "minutesPlayed": 2900
             },
-            "kevin-gameiro": {
+            "3dab1467-5678-4624-8b0c-4567e4567890": {
               "id": 32,
               "name": "Kevin Gameiro",
               "position": "CF",
@@ -456,7 +456,7 @@
               "yellowCards": 3,
               "minutesPlayed": 2500
             },
-            "ever-banega": {
+            "4ebc2578-6789-4724-8c1d-5678f5678901": {
               "id": 33,
               "name": "Ever Banega",
               "position": "CM",
